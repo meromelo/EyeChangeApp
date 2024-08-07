@@ -519,9 +519,9 @@ ul.nav > li > a.active{
     content: "";
     position: absolute;
     width: 400px;
-    height: 600px;
+    height: 620px;
     vertical-align: middle;
-    bottom: -200px;
+    bottom: -210px;
     right: 50px;
     animation-name: mock-animation;
 animation-duration: 2s;
